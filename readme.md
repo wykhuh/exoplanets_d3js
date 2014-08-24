@@ -2,7 +2,7 @@
 
 Chart showing the distance and radius of the 1,815 known exoplanets using D3.js.
 
-* When/Where: This project was started at a two-hour minihackathon at [Hackreactor](http://hackreactor.com) on August 21, 2014.
+* When/Where: This project was started at a two-hour minihackathon at [Hackreactor](http://hackreactor.com) on August 7, 2014.
 * Goal: Use D3.js to create a data visualization.
 * Tech used: [D3.js](http://d3js.org), [jQuery](http://jquery.com).
 * Demo: [Exoplanets D3.js Demo](http://nerdycreativity.com/exoplanets.html)
