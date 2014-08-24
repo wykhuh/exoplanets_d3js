@@ -1,0 +1,22 @@
+{
+  "name": "Exoplanets D3 demo",
+  "version": "0.0.0",
+  "authors": [
+    "wykhuh <wykhuh@users.noreply.github.com>"
+  ],
+  "description": "Use D3 to create data visualization about the exoplanets.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://nerdycreativity.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.11",
+    "jquery": "~2.1.1"
+  }
+}

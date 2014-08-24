@@ -1,0 +1,38 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Exoplanets</title>
+
+  <style>
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: white;
+    shape-rendering: crispEdges;
+  }
+
+  .axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+    fill: white;
+  }
+  </style>
+</head>
+<body>
+  
+  <h1>Exoplanets</h1>
+
+  <p>Chart showing the distance and radius of the 1,815 known exoplanets.</p>
+
+  <p>X-axis: distance from Earth (parsecs)<br>
+    Y-axis: radius of the exoplanet as compared to Jupiter</p>
+  
+  <p>Data from <a href="http://exoplanet.eu/">Exoplanet.eu</a>
+    
+  <div id='dataArea'></div> 
+    
+  <script src="./scripts/d3.js"></script>
+  <script src="./scripts/planets.js"></script>
+
+ </body>
+</html>
